@@ -1,0 +1,47 @@
+.header{
+    padding: 10px;
+    color: #2b5480;
+}
+.links{
+    background-color: #2b5480;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:justify-content;
+    align-items: center;
+    color:white;
+}
+.links a{
+    padding: 1rem;
+    border-right: 1px solid white;
+    height:100%;
+    color:white;
+    text-decoration: none;
+}
+.links span{
+    padding: 1rem;
+    margin-left:auto;
+}
+
+
+@media (max-width: 800px) {
+    .links{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .links a{
+        border-right: none;
+        border-bottom: 1px solid white;
+    };
+
+}
+.link.active {
+	background-color: #82b7d0;
+    color: #2b5480;
+}
+
+.zavrsni-ispit {
+	padding: 1rem;
+
+}
