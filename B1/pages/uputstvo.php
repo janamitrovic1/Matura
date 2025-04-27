@@ -6,11 +6,11 @@
     <link rel="stylesheet" href="../css/globals.css">
     <link rel="stylesheet" href="../css/nav.css">
     <link rel="stylesheet" href="../css/uputstvo.css">
-    <title>Document</title>
+    <title>Uputstvo</title>
 </head>
 <body>
     <?php
-        $url = "uputstvo";   
+        $url = "Фото галерија - упутство";   
         require_once '../components/nav.php'; 
     ?>
 </body>

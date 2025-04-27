@@ -10,7 +10,7 @@
 </head>
 <body>
     <?php
-		$url = "index";
+		$url = "Фото галерија";
         include_once './components/nav.php'; 
     ?>
 	<div class="full-container">
