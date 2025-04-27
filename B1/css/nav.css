@@ -11,6 +11,10 @@
     color: white;
 }
 
+.link.active{
+	background-color: #82b7d0;
+    color:black;
+}
 .links a {
     padding: 1rem;
     border-right: 1px solid white;
