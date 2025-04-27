@@ -21,16 +21,16 @@
 				<img src="./slike/slika1.jpg" id="centralnaslika" alt="Centarlna slika">
 			</div>
 			<div class="maleslike">
-				<img src="./slike/slika1.jpg" class="malaslika" alt="Slika1">
-				<img src="./slike/slika2.jpg" class="malaslika" alt="Slika2">
-				<img src="./slike/slika3.jpg" class="malaslika" alt="Slika3">
-				<img src="./slike/slika4.jpg" class="malaslika" alt="Slika4">
-				<img src="./slike/slika5.jpg" class="malaslika" alt="Slika5">
-				<img src="./slike/slika6.jpg" class="malaslika" alt="Slika6">
-				<img src="./slike/slika7.jpg" class="malaslika" alt="Slika7">
-				<img src="./slike/slika8.jpg" class="malaslika" alt="Slika8">
-				<img src="./slike/slika9.jpg" class="malaslika" alt="Slika9">
-				<img src="./slike/slika10.jpg" class="malaslika" alt="Slika10">
+				<img src="./slike/slika1.jpg" class="malaslika" id="slika1"  alt="Slika1">
+				<img src="./slike/slika2.jpg" class="malaslika" id="slika2" alt="Slika2">
+				<img src="./slike/slika3.jpg" class="malaslika" id="slika3" alt="Slika3">
+				<img src="./slike/slika4.jpg" class="malaslika" id="slika4" alt="Slika4">
+				<img src="./slike/slika5.jpg" class="malaslika" id="slika5" alt="Slika5">
+				<img src="./slike/slika6.jpg" class="malaslika" id="slika6" alt="Slika6">
+				<img src="./slike/slika7.jpg" class="malaslika" id="slika7" alt="Slika7">
+				<img src="./slike/slika8.jpg" class="malaslika" id="slika8" alt="Slika8">
+				<img src="./slike/slika9.jpg" class="malaslika" id="slika9" alt="Slika9">
+				<img src="./slike/slika10.jpg" class="malaslika" id="slika10" alt="Slika10">
 			</div>
 		</div>
 	</div>
