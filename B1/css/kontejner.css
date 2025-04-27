@@ -1,0 +1,39 @@
+.galerija{
+    height: 640px;
+    width: 640px;
+    margin:auto;
+    display:flex;
+    flex-direction: column;
+    border:2px solid white;
+}
+textarea{
+    border-bottom:2px solid white;
+    background-color: #2b5480;
+    resize:none;
+    flex:1;
+    overflow-y: auto;
+    color:white;
+}
+.velikaslika{
+    width:640px;
+    height:480px;
+    border-bottom:2px solid white;
+}
+.velikaslika img{
+    height:100%;
+    width: 100%;
+}
+.maleslike{
+    display: flex;
+    flex-direction: row;
+}
+.malaslika{
+    width:64px;
+    height:40px;
+    border-right: 1px solid white;
+    cursor:pointer;
+}
+.maleslike img{
+    height:100%;
+    width:100%;
+}

@@ -3,12 +3,13 @@
     padding: 0;
     box-sizing: border-box;
     overflow: hidden;
+    color:white;
 }
 
 body {
     background-color: #b4d9eb;
 }
 
-.main{
-    padding: 50px;
+.full-container {
+    padding: 1.5rem;
 }
