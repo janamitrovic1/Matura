@@ -8,9 +8,9 @@
         </div>
         <nav>
             <div class="links">
-                <a href="">Početna</a>
-                <a href="./pages/autor.php">O autoru</a>
-                <a href="./pages/uputstvo.php">Uputstvo</a>
+                <a href="../index.php" class="link <?php echo ($url == "index" ? "active" : "") ?>">Početna</a>
+                <a href="../pages/autor.php" class="link <?php echo($url == "autor" ? "active" : "")?>">O autoru</a>
+                <a href="../pages/uputstvo.php" class="link <?php echo($url=="uputstvo"? "active":"") ?>">Uputstvo</a>
                 <span>Zavrsni ispit</span>
             </div>
             

@@ -9,6 +9,9 @@
     <title>Document</title>
 </head>
 <body>
-    <?php   include '../components/nav.php'; ?>
+    <?php
+        $url = "uputstvo";   
+        require_once '../components/nav.php'; 
+    ?>
 </body>
 </html>

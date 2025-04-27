@@ -9,8 +9,14 @@
 </head>
 <body>
     <?php
-     include './components/nav.php'; ?>
-
+		$url = "index";
+        include_once './components/nav.php'; 
+    ?>
+	<main class="main">
+		<div id="kontejner">
+TRALAL
+		</div>
+	</main>
 
 </body>
 </html>

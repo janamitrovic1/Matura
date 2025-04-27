@@ -8,7 +8,10 @@
     <title>Document</title>
 </head>
 <body>
-    <?php include '../components/nav.php'; ?>
+    <?php 
+        $url = "autor";
+        require_once '../components/nav.php'; 
+    ?>
     <p>Jana mitrovic</p>
 </body>
 </html>
