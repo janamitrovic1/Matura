@@ -4,8 +4,9 @@
     box-sizing: border-box;
 }
 body{
-    
-	background-color: #641835;
+    background-image: url(../images/pozadina.jpg);
+    background-repeat: none;
+    background-size: cover;
 }
 a{
     text-decoration: none;
