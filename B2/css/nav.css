@@ -15,7 +15,7 @@ nav{
     align-items: center;
     width:fit-content; /*!!!!!*/
     color:#641835;
-    border:1px solid #641835
+    border:1px solid #641835;
 }
 nav a{
     text-align: center;

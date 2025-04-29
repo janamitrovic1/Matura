@@ -12,3 +12,13 @@ a{
     text-decoration: none;
     color:inherit;
 }
+
+.footer{
+    background-color: #641835;
+    color:#fcfba1;
+    text-align: center;
+    padding: 1rem;
+    width: 100%;
+    position: absolute;
+    bottom:0;
+}
