@@ -17,7 +17,7 @@
     <div>
         <h1>Аутор: Јана Митровић</h1>
         <h3>Gmail: <a target="_blank" href="mailto:someone@example.com">mitrovicjanakv@gmail.com</a></h3>
-        <h3>GitHub: <a target="_blank" href="https://github.com/janamitrovic1">https://github.com/janamitrovic1</a></h3>
+        <h3>GitHub: <a target="_blank" href="https://github.com/janamitrovic1">github.com/janamitrovic1</a></h3>
         <p>ЕСТШ "Никола Тесла" Краљево</p>
         <p>Практични рад за матурски испит.</p>
     </div>

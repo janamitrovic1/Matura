@@ -3,3 +3,26 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.main_container{
+    padding: 50px 10px;
+}
+.small_container{
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:5px;
+}
+.small_image{
+    width: 200px;
+	height: 200px;
+    border: 2px solid yellow;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.small_image img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    cursor: pointer;
+}
