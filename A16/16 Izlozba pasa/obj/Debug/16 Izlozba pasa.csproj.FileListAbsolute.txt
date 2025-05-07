@@ -1,0 +1,135 @@
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\ЕИТ-А16 Изложба паса\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.AssemblyReference.cache
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\ЕИТ-А16 Изложба паса\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Form1.resources
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\ЕИТ-А16 Изложба паса\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Properties.Resources.resources
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\ЕИТ-А16 Изложба паса\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.GenerateResource.cache
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\ЕИТ-А16 Изложба паса\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.CoreCompileInputs.cache
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.AssemblyReference.cache
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Form1.resources
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Properties.Resources.resources
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.GenerateResource.cache
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.CoreCompileInputs.cache
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe.config
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.pdb
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.exe
+G:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.pdb
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe.config
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.pdb
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.AssemblyReference.cache
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Form1.resources
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Properties.Resources.resources
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.GenerateResource.cache
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.CoreCompileInputs.cache
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.exe
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.pdb
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe.config
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.pdb
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.AssemblyReference.cache
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Form1.resources
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Properties.Resources.resources
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.GenerateResource.cache
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.CoreCompileInputs.cache
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.exe
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.pdb
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe.config
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.pdb
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.AssemblyReference.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.SuggestedBindingRedirects.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Form1.resources
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Properties.Resources.resources
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.GenerateResource.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.CoreCompileInputs.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.exe
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.pdb
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe.config
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.pdb
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.AssemblyReference.cache
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Form1.resources
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Properties.Resources.resources
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.GenerateResource.cache
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.CoreCompileInputs.cache
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.exe
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.pdb
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe.config
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.pdb
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.AssemblyReference.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.SuggestedBindingRedirects.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Form1.resources
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Properties.Resources.resources
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.GenerateResource.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.CoreCompileInputs.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.exe
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.pdb
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe.config
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.pdb
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.AssemblyReference.cache
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Form1.resources
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Properties.Resources.resources
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.GenerateResource.cache
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.CoreCompileInputs.cache
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.exe
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.pdb
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe.config
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.pdb
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.AssemblyReference.cache
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Form1.resources
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Properties.Resources.resources
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.GenerateResource.cache
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.CoreCompileInputs.cache
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.exe
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.pdb
+D:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe.config
+D:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe
+D:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.pdb
+D:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.AssemblyReference.cache
+D:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Form1.resources
+D:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Properties.Resources.resources
+D:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.GenerateResource.cache
+D:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.CoreCompileInputs.cache
+D:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.exe
+D:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.pdb
+D:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\Radnici odeljenja osiguranja.mdf
+D:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\Radnici odeljenja osiguranja_log.ldf
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\Radnici odeljenja osiguranja.mdf
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\Radnici odeljenja osiguranja_log.ldf
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe.config
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.pdb
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.AssemblyReference.cache
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Form1.resources
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Properties.Resources.resources
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.GenerateResource.cache
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.CoreCompileInputs.cache
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.exe
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.pdb
+C:\Users\Programiranje\Documents\IV 3\jana\ii polugodiste\matura\16. Izlozba pasa\16 Izlozba pasa\bin\Debug\Radnici odeljenja osiguranja.mdf
+C:\Users\Programiranje\Documents\IV 3\jana\ii polugodiste\matura\16. Izlozba pasa\16 Izlozba pasa\bin\Debug\Radnici odeljenja osiguranja_log.ldf
+C:\Users\Programiranje\Documents\IV 3\jana\ii polugodiste\matura\16. Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe.config
+C:\Users\Programiranje\Documents\IV 3\jana\ii polugodiste\matura\16. Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe
+C:\Users\Programiranje\Documents\IV 3\jana\ii polugodiste\matura\16. Izlozba pasa\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.pdb
+C:\Users\Programiranje\Documents\IV 3\jana\ii polugodiste\matura\16. Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.AssemblyReference.cache
+C:\Users\Programiranje\Documents\IV 3\jana\ii polugodiste\matura\16. Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Form1.resources
+C:\Users\Programiranje\Documents\IV 3\jana\ii polugodiste\matura\16. Izlozba pasa\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Properties.Resources.resources
+C:\Users\Programiranje\Documents\IV 3\jana\ii polugodiste\matura\16. Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.GenerateResource.cache
+C:\Users\Programiranje\Documents\IV 3\jana\ii polugodiste\matura\16. Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.CoreCompileInputs.cache
+C:\Users\Programiranje\Documents\IV 3\jana\ii polugodiste\matura\16. Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.exe
+C:\Users\Programiranje\Documents\IV 3\jana\ii polugodiste\matura\16. Izlozba pasa\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.pdb
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A16\16 Izlozba pasa\bin\Debug\Radnici odeljenja osiguranja.mdf
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A16\16 Izlozba pasa\bin\Debug\Radnici odeljenja osiguranja_log.ldf
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A16\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe.config
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A16\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.exe
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A16\16 Izlozba pasa\bin\Debug\16 Izlozba pasa.pdb
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A16\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.AssemblyReference.cache
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A16\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Form1.resources
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A16\16 Izlozba pasa\obj\Debug\_16_Izlozba_pasa.Properties.Resources.resources
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A16\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.GenerateResource.cache
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A16\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.csproj.CoreCompileInputs.cache
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A16\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.exe
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A16\16 Izlozba pasa\obj\Debug\16 Izlozba pasa.pdb

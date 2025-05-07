@@ -1,0 +1,5 @@
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Release\16 Izlozba pasa.csproj.AssemblyReference.cache
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Release\_16_Izlozba_pasa.Form1.resources
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Release\_16_Izlozba_pasa.Properties.Resources.resources
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Release\16 Izlozba pasa.csproj.GenerateResource.cache
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A16 Izlozba pasa\16 Izlozba pasa\16 Izlozba pasa\obj\Release\16 Izlozba pasa.csproj.CoreCompileInputs.cache
