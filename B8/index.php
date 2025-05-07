@@ -13,18 +13,18 @@
     ?>
 
     <main>
-        <form class="form" >
-            <div class="form-row">
+        <form class="form" method="POST" action="./obrada.php">
+            <div class="form-row" >
                 <label for="ime">IME:</label>
-                <input type="text" id="ime" name="ime">
+                <input type="text" id="ime" name="ime" required>
             </div>
             <div class="form-row">
                 <label for="email">EMAIL:</label>
-                <input type="email" id="email" name="email">
+                <input type="email" id="email" name="email" required>
             </div>
             <div class="form-row">
                 <label for="komentar">KOMENTAR:</label>
-                <textarea id="komentar" name="komentar" rows="5"></textarea>
+                <textarea id="komentar" name="komentar" rows="5" required></textarea>
             </div>
             <div class="form-row">
                 <label></label>
@@ -36,5 +36,6 @@
     <?php
         require_once("./components/footer.php");
     ?>
+</section>
 </body>
 </html>
