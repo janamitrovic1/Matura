@@ -1,0 +1,109 @@
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe.config
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.pdb
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form1.resources
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Properties.Resources.resources
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.GenerateResource.cache
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.CoreCompileInputs.cache
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.exe
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.pdb
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.AssemblyReference.cache
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form2.resources
+H:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form3.resources
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe.config
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.pdb
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.AssemblyReference.cache
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form1.resources
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form2.resources
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form3.resources
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Properties.Resources.resources
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.GenerateResource.cache
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.CoreCompileInputs.cache
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.exe
+E:\PREDAVANJA 2021-2022\Programiranje IV-3\MATURA 2022\Zadaci praktični\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.pdb
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe.config
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.pdb
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.AssemblyReference.cache
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form1.resources
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form2.resources
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form3.resources
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Properties.Resources.resources
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.GenerateResource.cache
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.CoreCompileInputs.cache
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.exe
+G:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.pdb
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe.config
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.pdb
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.AssemblyReference.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.SuggestedBindingRedirects.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form1.resources
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form2.resources
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form3.resources
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Properties.Resources.resources
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.GenerateResource.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.CoreCompileInputs.cache
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.exe
+E:\PREDAVANJA 2022-2023\Programiranje IV-3\PREDAVANJA 2022-2023\14. Baze podataka\Vežbe 2022-2023\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.pdb
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe.config
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.pdb
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.AssemblyReference.cache
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form1.resources
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form2.resources
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form3.resources
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Properties.Resources.resources
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.GenerateResource.cache
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.CoreCompileInputs.cache
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.exe
+D:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.pdb
+F:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe.config
+F:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe
+F:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.pdb
+F:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.AssemblyReference.cache
+F:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form1.resources
+F:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form2.resources
+F:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form3.resources
+F:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Properties.Resources.resources
+F:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.GenerateResource.cache
+F:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.CoreCompileInputs.cache
+F:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.exe
+F:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.pdb
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe.config
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.pdb
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.AssemblyReference.cache
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form1.resources
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form2.resources
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form3.resources
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Properties.Resources.resources
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.GenerateResource.cache
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.CoreCompileInputs.cache
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.exe
+E:\PREDAVANJA 2023-2024\Programiranje IV-3\PREDAVANJA 2023-2024\14. Baze podataka\Vebzbe 2023-2024\EIT-A13 DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.pdb
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\14. Baze podataka 2024-2025\VEŽBE 2024-2025\Zadaci iz zbirke!!!\13. DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe.config
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\14. Baze podataka 2024-2025\VEŽBE 2024-2025\Zadaci iz zbirke!!!\13. DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\14. Baze podataka 2024-2025\VEŽBE 2024-2025\Zadaci iz zbirke!!!\13. DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.pdb
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\14. Baze podataka 2024-2025\VEŽBE 2024-2025\Zadaci iz zbirke!!!\13. DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.AssemblyReference.cache
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\14. Baze podataka 2024-2025\VEŽBE 2024-2025\Zadaci iz zbirke!!!\13. DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form1.resources
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\14. Baze podataka 2024-2025\VEŽBE 2024-2025\Zadaci iz zbirke!!!\13. DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form2.resources
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\14. Baze podataka 2024-2025\VEŽBE 2024-2025\Zadaci iz zbirke!!!\13. DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form3.resources
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\14. Baze podataka 2024-2025\VEŽBE 2024-2025\Zadaci iz zbirke!!!\13. DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Properties.Resources.resources
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\14. Baze podataka 2024-2025\VEŽBE 2024-2025\Zadaci iz zbirke!!!\13. DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.GenerateResource.cache
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\14. Baze podataka 2024-2025\VEŽBE 2024-2025\Zadaci iz zbirke!!!\13. DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.CoreCompileInputs.cache
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\14. Baze podataka 2024-2025\VEŽBE 2024-2025\Zadaci iz zbirke!!!\13. DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.exe
+H:\PREDAVANJA 2024-2025\Programiranje IV-3\14. Baze podataka 2024-2025\VEŽBE 2024-2025\Zadaci iz zbirke!!!\13. DVD kolekcija\13. DVD kolekcija\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.pdb
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A13\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe.config
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A13\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.exe
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A13\13. DVD kolekcija\bin\Debug\_13.DVD_kolekcija.pdb
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A13\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.AssemblyReference.cache
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A13\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form1.resources
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A13\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form2.resources
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A13\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Form3.resources
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A13\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.Properties.Resources.resources
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A13\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.GenerateResource.cache
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A13\13. DVD kolekcija\obj\Debug\13. DVD kolekcija.csproj.CoreCompileInputs.cache
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A13\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.exe
+C:\Users\Programiranje\Documents\IV 3\jana\Matura\A13\13. DVD kolekcija\obj\Debug\_13.DVD_kolekcija.pdb
