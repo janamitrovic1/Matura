@@ -5,3 +5,9 @@
 # Ignore all bin and debug folders
 */bin/
 */bin/Debug/
+# Visual Studio folders and files
+.vs/
+*.suo
+*.cache
+*.json
+obj/
