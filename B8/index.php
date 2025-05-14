@@ -22,6 +22,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     } else {
         $sql = "INSERT INTO Utisak (Ime, Email, Komentar, Datum) VALUES ('$ime', '$email', '$komentar', '$datum')";
         if (mysqli_query($conn, $sql)) {
+            $ime = '';
+            $email = '';
+            $komentar = '';
         } else {
             $poruka = "Greška prilikom unosa: " . mysqli_error($conn);
             $porukaBoja = "red";
