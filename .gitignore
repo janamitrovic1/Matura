@@ -1,1 +1,7 @@
-.vs/
+# Ignore SQL Server database files
+*.ldf
+*.mdf
+
+# Ignore all bin and debug folders
+*/bin/
+*/bin/Debug/
