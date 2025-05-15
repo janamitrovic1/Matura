@@ -3,38 +3,48 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, sans-serif;
-    font-size: 16px;
 }
 body, html {
     min-height: 100vh;
 }
 .header{
-    background-color:blue;
+    background-color:cornflowerblue;
     color: white;
     padding: 30px;
     font-size: 25px;
+    text-align: center;
+    font-weight: bold;
 }
 
 .nav{
     display: flex;
     flex-direction: row;
-    justify-content: start;
+    justify-content: center;
     align-items: center;
-    background-color: rgb(135, 202, 219);
+    background-color:rgb(216, 218, 208);
     padding:5px;
+    gap: 10px;
 }
 
 .nav a{
     color: white;
     text-decoration: none;
-    padding: 15px;
-    background-color: rgb(18, 65, 153);
-    border-radius: 1px;
-    border-right:1px solid white;
+    padding: 15px 20px;
+    background-color: rgb(56, 110, 211);
+    border-radius: 7px;
 }
 
 .nav a:last-child{
     border-right: none;
+}
+
+.container{
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; */
+    padding: 50px;;
 }
 
 .footer{

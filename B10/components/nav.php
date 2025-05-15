@@ -3,7 +3,7 @@
 <body>
     <div>
         <div class="header">
-            <h1>Elektronski recnik</h1>
+            <p>Elektronski recnik</p>
         </div>
         <div class="nav">
             <a href=".">Recnik</a>
