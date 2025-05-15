@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dodavanje novih reci</title>
     <link rel="stylesheet" href="css/globals.css">
-    <link rel="stylesheet" href="css/add.css">
+    <!-- <link rel="stylesheet" href="css/add.css"> -->
 </head>
 <body>
     <?php
