@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dodavanje novih reci</title>
     <link rel="stylesheet" href="css/globals.css">
+    <link rel="stylesheet" href="css/home.css">
     <!-- <link rel="stylesheet" href="css/add.css"> -->
 </head>
 <body>
@@ -26,7 +27,22 @@
         </div>
     </div>
     <?php
-        require_once "components/footer.php";
+        require_once "database/connection.php";
+        if( isset($_GET['eng']) && isset($_GET['srb']) && isset($_GET['opis'])){
+            $eng = $_GET['eng'];
+            $srb = $_GET['srb'];
+            $opis = $_GET['opis'];
+
+            $sql = "INSERT INTO recnik (Engleski,Srpski,Opis) VALUES ('$eng', '$srb', '$opis')";
+            if($conn->query($sql) === TRUE){
+                echo "<script>alert('Reč je uspešno dodata!');</script>";
+            } else {
+                echo "<script>alert('Greška: " . $conn->error . "');</script>";
+            }
+        }
     ?>
+    <!-- <?php
+        require_once "components/footer.php";
+    ?> -->
 </body>
 </html>
