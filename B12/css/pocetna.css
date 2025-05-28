@@ -36,6 +36,10 @@ body{
     background-color: darkgreen;
     color: white;
 }
+.sediste.rezervisano {
+    background-color: red;
+    cursor:not-allowed;
+}
 .grid{
     display: grid;
     grid-template-columns: auto auto;
