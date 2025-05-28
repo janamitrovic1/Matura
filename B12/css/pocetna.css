@@ -30,6 +30,11 @@ body{
     padding: 5px;
     border-radius: 5px;
     background-color: green;
+    cursor:pointer;
+}
+ .sediste.izabrano {
+    background-color: darkgreen;
+    color: white;
 }
 .grid{
     display: grid;

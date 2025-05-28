@@ -24,10 +24,10 @@
             <form action="">
                 <div class="grid">
                     <div class="kolona">
-                        <label for="sediste">Broj sedista:</label>
+                        <label for="sedista">Broj sedista:</label>
                     </div>
                     <div class="kolona">
-                        <input name="sediste" id="sediste" type="text">
+                        <input name="sedista" id="sedista" type="text">
                     </div>
                     <div class="kolona">
                         <label for="ime">Ime i prezime:</label>
