@@ -10,6 +10,7 @@ body{
     display: flex;
     flex-direction: column;
     gap:30px;
+    flex:1;
 }
 .autobus{
     border:3px solid black;
@@ -29,4 +30,21 @@ body{
     padding: 5px;
     border-radius: 5px;
     background-color: green;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto;
+    place-content: center;
+    gap:5px;
+}
+input{
+    border-radius: 8px;
+    padding: 8px;
+    border:1px solid lightgray;
+}
+.kolona{
+    margin:auto;
+}
+input[type="submit"] {
+    margin-top: 10px; /* promeni broj po želji */
 }

@@ -21,8 +21,32 @@
             </div>
         </div>
         <div>
+            <form action="">
+                <div class="grid">
+                    <div class="kolona">
+                        <label for="sediste">Broj sedista:</label>
+                    </div>
+                    <div class="kolona">
+                        <input name="sediste" id="sediste" type="text">
+                    </div>
+                    <div class="kolona">
+                        <label for="ime">Ime i prezime:</label>
+                    </div>
+                    <div class="kolona">
+                        <input name="ime" id="ime" type="text">
+                    </div>
+                    <div class="kolona">
+                        <label for="mail">E-mail:</label>
+                    </div>
+                    <div class="kolona">
+                        <input name="mail" id="mail" type="email">
+                    </div>
 
+                </div>
+                <input type="submit" value="Posalji">
+            </form>
         </div>
+        
     </div>
     <?php 
         require_once("components/footer.php");
