@@ -48,6 +48,9 @@
         </div>
         
     </div>
+    <?php
+        require_once("database/connection.php");    
+    ?>
     <?php 
         require_once("components/footer.php");
     ?>
