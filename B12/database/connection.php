@@ -27,13 +27,13 @@ if($row["broj"]==0){
     $sql = "INSERT INTO rezervacije(Broj_sedista,Rezervacija) VALUES ".implode(", ",$values);
     // $result = $conn->query($sql);
     if($conn->query($sql)){
-        echo "<p>uneti redovici</p>";
+        // echo "<p>uneti redovici</p>";
     }
     else
         echo "<p>erorr</p>";
 }
 else
-echo "<p>uneti redovi</p>";
+// echo "<p>uneti redovi</p>";
 
 
 $sql="SELECT Broj_sedista from rezervacije WHERE rezervacija=1";

@@ -21,7 +21,7 @@
             </div>
         </div>
         <div>
-            <form action="">
+            <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF'])?>" method="POST">
                 <div class="grid">
                     <div class="kolona">
                         <label for="sedista">Broj sedista:</label>
@@ -51,6 +51,25 @@
     <?php
         require("database/connection.php");    
         // require_once("components/footer.php");
+    ?>
+    <?php
+        if($_SERVER["REQUEST_METHOD"]=="POST"){
+        $ime = test_input($_POST["ime"]);
+
+        $mejl = test_input($_POST["mail"]);
+        $nizicsedista = test_input($_POST["sedista"]);
+
+        $nizicsedista = explode(", ",$nizicsedista);
+        var_dump($nizicsedista);
+        }
+
+                
+        function test_input($data) {
+            $data = trim($data);
+            $data = stripslashes($data);
+            $data = htmlspecialchars($data);
+            return $data;
+        }
     ?>
     <script>
         const rezervisanaSedista = <?php echo json_encode($rezervisana); ?>;
