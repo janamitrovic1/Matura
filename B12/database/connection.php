@@ -36,15 +36,15 @@ else
 echo "<p>uneti redovi</p>";
 
 
-// $sql="SELECT brojsedista from rezervacije WHERE rezervacija=1";
-// $result = $conn->query($sql);
-// $rezervisana = [];
-// if ($result->num_rows > 0) {
-//     while ($row = $result->fetch_assoc()) {
-//         $rezervisana[] = (int)$row["brojsedista"];
-//         // echo "<p>".(int)$row["brojsedista"]."</p>";
-//     }
-//     // var_dump($rezervisana);
-// }   
+$sql="SELECT Broj_sedista from rezervacije WHERE rezervacija=1";
+$result = $conn->query($sql);
+$rezervisana = [];
+if ($result->num_rows > 0) {
+    while ($row = $result->fetch_assoc()) {
+        $rezervisana[] = (int)$row["Broj_sedista"];
+        // echo "<p>".(int)$row["brojsedista"]."</p>";
+    }
+    // var_dump($rezervisana);
+}   
 
 ?>

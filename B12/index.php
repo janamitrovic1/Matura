@@ -50,10 +50,10 @@
     </div>
     <?php
         require("database/connection.php");    
-        require_once("components/footer.php");
+        // require_once("components/footer.php");
     ?>
     <script>
-        // const rezervisanaSedista = <?php echo json_encode($rezervisana); ?>;
+        const rezervisanaSedista = <?php echo json_encode($rezervisana); ?>;
     </script>
     <script src="js/script.js"></script>
 </body>
