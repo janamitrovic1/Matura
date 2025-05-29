@@ -46,12 +46,12 @@ for (let i = 2; i <= 53; i++) {
     let sediste = document.createElement("div");
     sediste.className = "sediste";
     sediste.innerHTML = i;
-    sediste.dataset.broj = i;
-    if (rezervisanaSedista.includes(i)) {
-        sediste.classList.add("rezervisano");
-    } else {
-        sediste.addEventListener("click", rezervacija);
-    }
+    // sediste.dataset.broj = i;
+    // if (rezervisanaSedista.includes(i)) {
+    //     sediste.classList.add("rezervisano");
+    // } else {
+    sediste.addEventListener("click", rezervacija);
+    // }
     autobus.appendChild(sediste);
 }
 
