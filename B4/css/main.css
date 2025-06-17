@@ -1,0 +1,11 @@
+main{
+    display: flex;
+    flex-direction: row;
+}
+.levi{
+    writing-mode: vertical-rl; /* вертикално: одозго надоле, здесна налево */
+    text-orientation: upright; /* сва слова усправна */
+    letter-spacing: 25px;
+    padding: 150px;
+    text-align: center;
+}

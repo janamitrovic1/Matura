@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(255, 255, 224);
+}
+.header{
+    text-transform: uppercase;
+    font-size: larger;
+    text-align: center;
+    padding: 20px;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(146, 242, 255);
+    padding: 5px;
+    justify-content: center;
+}
+.nav div{
+    padding: 10px 50px;
+    text-align: center;
+    font-size: medium;
+    border-right:1px solid green ;
+}
+.nav div:last-child{
+    border: none;
+}
+.nav div a:active{
+    
+}
+a{
+    text-decoration: none;
+}
